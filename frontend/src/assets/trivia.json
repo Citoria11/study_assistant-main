@@ -1,0 +1,75 @@
+{
+  "title": "Bible Trivia",
+  "questions": [
+    {
+      "id": 1,
+      "question": "How many days did God take to create the world?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "6",
+      "explanation": "God created the world in six days and rested on the seventh (Genesis 1–2)."
+    },
+    {
+      "id": 2,
+      "question": "Who was the first man created by God?",
+      "options": ["Noah", "Abraham", "Adam", "Moses"],
+      "answer": "Adam",
+      "explanation": "God formed Adam from the dust of the ground (Genesis 2:7)."
+    },
+    {
+      "id": 3,
+      "question": "How many books are in the Bible?",
+      "options": ["60", "63", "66", "72"],
+      "answer": "66",
+      "explanation": "The Bible contains 66 books — 39 in the Old Testament and 27 in the New Testament."
+    },
+    {
+      "id": 4,
+      "question": "Who built the ark to survive the great flood?",
+      "options": ["Abraham", "Moses", "Noah", "Elijah"],
+      "answer": "Noah",
+      "explanation": "God commanded Noah to build the ark to save his family and pairs of every animal (Genesis 6)."
+    },
+    {
+      "id": 5,
+      "question": "In which city was Jesus born?",
+      "options": ["Jerusalem", "Nazareth", "Bethlehem", "Jericho"],
+      "answer": "Bethlehem",
+      "explanation": "Jesus was born in Bethlehem of Judea, fulfilling the prophecy of Micah 5:2."
+    },
+    {
+      "id": 6,
+      "question": "Who baptized Jesus?",
+      "options": ["Peter", "John the Baptist", "Paul", "Andrew"],
+      "answer": "John the Baptist",
+      "explanation": "John the Baptist baptized Jesus in the Jordan River (Matthew 3:13–17)."
+    },
+    {
+      "id": 7,
+      "question": "How many disciples did Jesus choose?",
+      "options": ["10", "11", "12", "14"],
+      "answer": "12",
+      "explanation": "Jesus chose twelve disciples to follow him and carry on his ministry (Matthew 10:1–4)."
+    },
+    {
+      "id": 8,
+      "question": "Who wrote most of the New Testament letters?",
+      "options": ["Peter", "John", "Paul", "James"],
+      "answer": "Paul",
+      "explanation": "The Apostle Paul authored at least 13 of the 27 New Testament books."
+    },
+    {
+      "id": 9,
+      "question": "What was the first miracle Jesus performed?",
+      "options": ["Healing a blind man", "Walking on water", "Turning water into wine", "Raising Lazarus"],
+      "answer": "Turning water into wine",
+      "explanation": "Jesus turned water into wine at a wedding in Cana — his first recorded miracle (John 2:1–11)."
+    },
+    {
+      "id": 10,
+      "question": "On what mountain did Moses receive the Ten Commandments?",
+      "options": ["Mount Carmel", "Mount Sinai", "Mount Zion", "Mount Ararat"],
+      "answer": "Mount Sinai",
+      "explanation": "God gave Moses the Ten Commandments on Mount Sinai (Exodus 19–20)."
+    }
+  ]
+}
